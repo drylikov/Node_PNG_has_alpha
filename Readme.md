@@ -3,4 +3,3 @@
   Check if a PNG contains any alpha channels.
 
 
-
